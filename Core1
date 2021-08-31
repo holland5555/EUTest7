@@ -1,0 +1,16 @@
+
+password="asdfkasd4ljasdlkfasdfjaddasdfslkfjlkjsdaf"  //BluBracketIgnore
+github_client-id : 'a1254c71c45965b03cdb' //BluBracketIgnore
+
+
+<html>  
+<head>  
+<script type="text/javascript" src="message.js"></script>  
+</head>  
+<body>  
+<p>Welcome to JavaScript</p>  
+<form>  
+<input type="button" value="click" onclick="msg()"/>  
+</form>  
+</body>  
+</html>  
